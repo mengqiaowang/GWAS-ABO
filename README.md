@@ -6,13 +6,32 @@ The accompanied manuscript is now under review and should be available by the en
 
 ABO blood types were measured by agglutination experiments using antisera reagents for blood group antigens. 
 
-# Binomial model
+*Binomial model*
 - ABO blood types are treated as a binary trait respectively:
   e.g. A vs. non-A (B, AB, and O combined)
 
-# Multinomial model
+*Multinomial model*
 - ABO blood types are treated as a quaternary (four-level) trait:
   O, A, B, and AB.
 
 
 P-value from the null-hypothesis statistical test (NHST) for the coefficient of the independent variable (SNP) ($\beta == 0$) was used to evaluate the genetic association.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### END
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br/>
+
+:adult: Author: Mengqiao Wang, Ph.D.
+
+:spiral_calendar: Last updated: October 27, 2020
+
+🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer:
+
+📍 Address: West China Biomedical Data Science Lab founded A.D. 2016 @ Sichuan University, China
+
+<br/><br/>
+           "Another fall, another turned page..." - Wallace Stegner
+           
+           To all: Hello Autumn! Lets' celebrate nature's most beloved season :tree: :hiking:
