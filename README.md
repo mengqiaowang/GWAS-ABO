@@ -22,6 +22,10 @@ P-value from the null-hypothesis statistical test (NHST) for the coefficient of 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br/>
+*"Another fall, another turned page..." - Wallace Stegner*
+<br/><br/>
+To all: Hello Autumn! 🍂 Lets' celebrate nature's most beloved season 🦋🍁🐿️
+<br/><br/>
 
 :adult: Author: Mengqiao Wang, Ph.D.
 
@@ -30,8 +34,3 @@ P-value from the null-hypothesis statistical test (NHST) for the coefficient of 
 🤟🏻 Greetings: written with LOVE :heart: from Chengdu :mahjong: by the Wang Lab :dna: :test_tube: :computer:
 
 📍 Address: West China Biomedical Data Science Lab founded A.D. 2016 @ Sichuan University, China
-
-<br/><br/>
-*"Another fall, another turned page..." - Wallace Stegner*
-<br/><br/>
-To all: Hello Autumn! 🍂 Lets' celebrate nature's most beloved season 🦋🍁🐿️
