@@ -34,4 +34,4 @@ P-value from the null-hypothesis statistical test (NHST) for the coefficient of 
 <br/><br/>
 *"Another fall, another turned page..." - Wallace Stegner*
 <br/>
-To all: Hello Autumn! Lets' celebrate nature's most beloved season :tree: :hiking: :family_man_woman_girl_boy:
+To all: Hello Autumn! Lets' celebrate nature's most beloved season :tree: :fa-hiking: :family_man_woman_girl_boy:
