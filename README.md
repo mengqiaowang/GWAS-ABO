@@ -22,7 +22,7 @@ P-value from the null-hypothesis statistical test (NHST) for the coefficient of 
 #### END
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br/>
+
 *"Another fall, another turned page..." - Wallace Stegner*
 <br/><br/>
 To all: Hello Autumn! 🍂 Lets' celebrate nature's most beloved season 🦋🍁🐿️
