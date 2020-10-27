@@ -16,17 +16,17 @@ ABO blood types were measured by agglutination experiments using antisera reagen
 
 
 P-value from the null-hypothesis statistical test (NHST) for the coefficient of the independent variable (SNP, H0: beta = 0 *vs.* H1: beta != 0) was used to evaluate the genetic association.
-
+<br/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### END
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+<br/>
 *"Another fall, another turned page..." - Wallace Stegner*
 <br/><br/>
 To all: Hello Autumn! 🍂 Lets' celebrate nature's most beloved season 🦋🍁🐿️
-<br/><br/>
+<br/><br/><br/>
 
 :adult: Author: Mengqiao Wang, Ph.D.
 
