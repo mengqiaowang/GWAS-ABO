@@ -32,6 +32,6 @@ P-value from the null-hypothesis statistical test (NHST) for the coefficient of 
 📍 Address: West China Biomedical Data Science Lab founded A.D. 2016 @ Sichuan University, China
 
 <br/><br/>
-           "Another fall, another turned page..." - Wallace Stegner
+"Another fall, another turned page..." - Wallace Stegner
            
-           To all: Hello Autumn! Lets' celebrate nature's most beloved season :tree: :hiking:
+To all: Hello Autumn! Lets' celebrate nature's most beloved season :tree: :hiking:
