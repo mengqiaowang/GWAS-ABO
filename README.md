@@ -8,7 +8,7 @@ ABO blood types were measured by agglutination experiments using antisera reagen
 
 ***Binomial model***
 - ABO blood types are treated as a binary trait respectively:
-  e.g. A vs. non-A (B, AB, and O combined)
+  e.g. O vs. non-O (A, B, and AB combined)
 
 ***Multinomial model***
 - ABO blood types are treated as a quaternary (four-level) trait:
