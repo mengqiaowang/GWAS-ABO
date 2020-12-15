@@ -2,7 +2,7 @@
 
 This is the deposit of the R binomial and multinomial models for genomewide association study (GWAS) of ABO blood types in a Chinese population.
 
-The accompanied manuscript is now under review and should be available by the end of December 2020.
+The accompanied manuscript is now under review and should be available sometime in 2021.
 <br/><br/><br/>
 ABO blood types were measured by agglutination experiments using antisera reagents for blood group antigens. 
 
